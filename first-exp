@@ -1,6 +1,0 @@
-# Just a testing file
-just for testing purpose
-
-if (mood === 'fun'){
-return `awesome`
-} else return `baddy`
