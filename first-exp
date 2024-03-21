@@ -1,2 +1,6 @@
 # Just a testing file
 it's just for my first git experience
+
+if (mood === 'fun'){
+return `awesome`
+} else return `baddy`
