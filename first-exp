@@ -1,5 +1,5 @@
 # Just a testing file
-it's just for my first git experience
+just for testing purpose
 
 if (mood === 'fun'){
 return `awesome`
