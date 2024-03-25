@@ -1,4 +1,4 @@
 # First Repo
 
 <br>
-My first repo.
+My first <b>public</b> repo.
